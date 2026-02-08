@@ -19,4 +19,4 @@ Documentation: Swagger / OpenAPI📂 Getting StartedPrerequisites.NET SDK (Versi
 Navigate to the project directory:Bashcd NewDriver
 Configure the Database:Update the ConnectionStrings in appsettings.json to point to your local database instance.Apply Migrations:Bashdotnet ef database update
 Run the Application:Bashdotnet run
-The API should now be running (usually at https://localhost:5001).
+The API should now be running (usually at https://localhost:7222).
